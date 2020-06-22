@@ -3,7 +3,8 @@
 **this project is purely for educational purpose only**
 
 
-**encrypter.py**: this script is used for encrypting the malicious code, it uses "aes" encryption along with "hex" encryption.
+**encrypter.py**: this script is used for encrypting the malicious code, it uses "aes" encryption along with "hex" encryption to
+                  encrypt the malicious code. which is decrypted and executed by stub at runtime
 
 
 **crypter.py**  : crypter uses several techniques to evade the runtime analysis of anti-viruses,
