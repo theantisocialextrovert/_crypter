@@ -1,7 +1,11 @@
 # _crypter #
 
 **this project is purely for educational purpose only**
+
+
 **encrypter.py**: this script is used for encrypting the malicious code, it uses "aes" encryption along with "hex" encryption.
+
+
 **crypter.py**  : crypter uses several techniques to evade the runtime analysis of anti-viruses,
                   for example: hash of a known file is calculated and stored, at the runtime the same file is downloaded and it's hash
                   is calculated, if both the hashes match then we can assume that the crypter is not running in a sandbox environment
